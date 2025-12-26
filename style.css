@@ -1,0 +1,59 @@
+body{
+    position:relative;
+    left: 500px;
+    top: 660px;
+}
+div{
+    width: 500px;
+    height: 26px;
+    background-color:rgb(196, 191, 191);
+    border-radius: 30px;
+    border-color: black;
+
+}
+#home{
+    width: 50px;
+    height: 20px;
+    background-color: white;
+    border-radius: 30px;
+    position: relative;
+    bottom: -3.5px;
+    left: 10px;
+    border-color: black;
+    border-width: 20px;
+     
+}
+#account{
+    width: 60px;
+    position: relative;
+    top: -17px;
+    right: -200px;
+    height: 20px;
+    background-color: white;
+    border-radius: 30px;
+    border-color: black;
+    
+}
+#contactus{
+    width: 85px;
+    position: relative;
+    top: -36.6px;
+    right: -400px;
+    background-color:white;
+    height: 20px;
+    border-radius: 30px;
+    border-color: black;
+
+}
+#hometext{
+    position: relative;
+    left: 9px;
+    
+}#accounttext{
+    position: relative;
+    left: 5px;
+}
+#contactustext{
+    position: relative;
+    left: 9px;
+}
